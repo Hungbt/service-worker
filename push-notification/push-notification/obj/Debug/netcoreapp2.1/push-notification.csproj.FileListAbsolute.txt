@@ -1,0 +1,22 @@
+C:\Users\hacun\source\repos\push-notification\push-notification\bin\Debug\netcoreapp2.1\push-notification.deps.json
+C:\Users\hacun\source\repos\push-notification\push-notification\bin\Debug\netcoreapp2.1\push-notification.runtimeconfig.json
+C:\Users\hacun\source\repos\push-notification\push-notification\bin\Debug\netcoreapp2.1\push-notification.runtimeconfig.dev.json
+C:\Users\hacun\source\repos\push-notification\push-notification\bin\Debug\netcoreapp2.1\push-notification.dll
+C:\Users\hacun\source\repos\push-notification\push-notification\obj\Debug\netcoreapp2.1\push-notification.csprojAssemblyReference.cache
+C:\Users\hacun\source\repos\push-notification\push-notification\obj\Debug\netcoreapp2.1\push-notification.csproj.CoreCompileInputs.cache
+C:\Users\hacun\source\repos\push-notification\push-notification\obj\Debug\netcoreapp2.1\push-notification.AssemblyInfoInputs.cache
+C:\Users\hacun\source\repos\push-notification\push-notification\obj\Debug\netcoreapp2.1\push-notification.AssemblyInfo.cs
+C:\Users\hacun\source\repos\push-notification\push-notification\bin\Debug\netcoreapp2.1\push-notification.pdb
+C:\Users\hacun\source\repos\push-notification\push-notification\obj\Debug\netcoreapp2.1\push-notification.dll
+C:\Users\hacun\source\repos\push-notification\push-notification\obj\Debug\netcoreapp2.1\push-notification.pdb
+D:\CongTy TinhHoa\service-worker\push-notification\push-notification\bin\Debug\netcoreapp2.1\push-notification.deps.json
+D:\CongTy TinhHoa\service-worker\push-notification\push-notification\bin\Debug\netcoreapp2.1\push-notification.runtimeconfig.json
+D:\CongTy TinhHoa\service-worker\push-notification\push-notification\bin\Debug\netcoreapp2.1\push-notification.runtimeconfig.dev.json
+D:\CongTy TinhHoa\service-worker\push-notification\push-notification\bin\Debug\netcoreapp2.1\push-notification.dll
+D:\CongTy TinhHoa\service-worker\push-notification\push-notification\bin\Debug\netcoreapp2.1\push-notification.pdb
+D:\CongTy TinhHoa\service-worker\push-notification\push-notification\obj\Debug\netcoreapp2.1\push-notification.csprojAssemblyReference.cache
+D:\CongTy TinhHoa\service-worker\push-notification\push-notification\obj\Debug\netcoreapp2.1\push-notification.csproj.CoreCompileInputs.cache
+D:\CongTy TinhHoa\service-worker\push-notification\push-notification\obj\Debug\netcoreapp2.1\push-notification.AssemblyInfoInputs.cache
+D:\CongTy TinhHoa\service-worker\push-notification\push-notification\obj\Debug\netcoreapp2.1\push-notification.AssemblyInfo.cs
+D:\CongTy TinhHoa\service-worker\push-notification\push-notification\obj\Debug\netcoreapp2.1\push-notification.dll
+D:\CongTy TinhHoa\service-worker\push-notification\push-notification\obj\Debug\netcoreapp2.1\push-notification.pdb
